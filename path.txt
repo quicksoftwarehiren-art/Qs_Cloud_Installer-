@@ -1,0 +1,5 @@
+printerUrl=https://github.com/quicksoftwarehiren-art/Qs_Cloud_Installer-/raw/refs/heads/main/Printer.exe
+setupUrl=https://github.com/quicksoftwarehiren-art/Qs_Cloud_Installer-/raw/refs/heads/main/Setup.exe
+shortcutUrl=https://raw.githubusercontent.com/quicksoftwarehiren-art/Qs_Cloud_Installer-/refs/heads/main/QS.connect
+version=1.0.0
+appName=QS Cloud Application
